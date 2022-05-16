@@ -1,4 +1,4 @@
-### Welcome to Heuristiko!
+### Welcome to wjpldevs!
 
 - 🧮 Math Applied Researcher
 - 👨‍💻 Programmer
